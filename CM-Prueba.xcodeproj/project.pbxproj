@@ -83,6 +83,7 @@
 		894CA4FF1B4F728E0096DDC7 /* CM-Prueba */ = {
 			isa = PBXGroup;
 			children = (
+				894CA5291B4F73250096DDC7 /* New Group */,
 				894CA5041B4F728E0096DDC7 /* AppDelegate.h */,
 				894CA5051B4F728E0096DDC7 /* AppDelegate.m */,
 				894CA50A1B4F728E0096DDC7 /* ViewController.h */,
@@ -120,6 +121,13 @@
 				894CA51E1B4F728F0096DDC7 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		894CA5291B4F73250096DDC7 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
